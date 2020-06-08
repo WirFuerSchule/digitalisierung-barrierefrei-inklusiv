@@ -5,29 +5,20 @@
 layout: home
 ---
 
-# Einleitung
+# Startseite
+## Zusammenfassung
+Dise Dokumentation hat zum Ziel eine Übersicht/Handreichung/Checkliste zu bieten, an der sich Entwickler:innen von digitalen Bildungslösungen  orientieren können. Sie wird derzeit im Rahmen des Projekts [#WirFürSchule](https://wirfuerschule.de) entwickelt.
 
-## Ziele dieses Dokuments
+## Inhaltsverzeichnis
+Zur Bearbeitung der jeweiligen Dokuments folgende Links aufrufen:
+* Einleitung: [https://demo.codimd.org/xHYmVgNaQBuKoY4nzliP_Q?both](https://demo.codimd.org/xHYmVgNaQBuKoY4nzliP_Q?both)
+* Personas: [https://demo.codimd.org/JAkaZwixSVOBDiwqpPJepQ?both](https://demo.codimd.org/JAkaZwixSVOBDiwqpPJepQ?both)
+* Handlungsempfehlungen: [https://demo.codimd.org/vhotYclNT1K2MTfgL4uijw?both](https://demo.codimd.org/vhotYclNT1K2MTfgL4uijw?both)
 
-* eine Übersicht / Handreichung / Checkliste erstellen, mit der Entwickler von digitalen Bildungslösungen arbeiten und sich daran orientieren können
-* Ziel sollte ein möglichst universelles Design von Lernumgebungen sein, dass möglichst wenige Menschen ausschließt.
-* Das schließt auch die zur Verfügung gestellte/zu stellende Hardware mit ein. Welche (End-)geräte eignen sich am besten für welche Bedürfnisse.
+Die Dokumente werden regelmäßig auf [GitHub: #WirFürSchule – Digital und barrierefrei](https://mariohamann.github.io/wirfuerschule-digitalisierung-barrierefrei-inklusiv/) aktualisiert.
 
-## Vorgehen
-* Entwicklung von Personas: Wer sind mögliche Nutzer für digitale Bildungsangebote?
-* Expertise aus allen Bereichen der Sonderpädagogik und Inklusion sammeln
-* Bestehende Richtlinien und Handreichungen sichten, sammeln und dann "zusammenzufassen"
+## Contributors
+Andrea B., Jutta K., Lisa-Lorraine K., Marie J., Heike F., Mario H.
 
-## Bestehende Texte, Sammlungen und Handreichungen (zum Sichten)
-*Anmerkung: wenn gesichtet und Inhalte übertragen, dann abhaken – vllt. könnten immer zwei Personen einen Blick darauf werfen?*
-
-### Barrierefreiheit beim Lernen
-- [ ] [Digitale Barrierefreiheit – Schlüssel für den Zugang aller Lernenden zum (Fern-)Unterricht](https://www.eduport.ch/de/stories/digitale-barrierefreiheit-schluessel-fuer-den-zugang-aller-lernenden-zum-fern-unterricht)
-
-### Allgemeines bzgl. Barrierefreiheit im Web/PC (Richtlinien)
-- [ ] [Barrierefreie digitale Kommunikation](https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/e-accessibility-/communicationnumeriqueaccessible2.html)
-- [ ] [Making the Web Accessible](https://www.w3.org/WAI/)
-- [ ] [Apple Inc. – Barrierefreiheit](https://www.apple.com/de/accessibility/)
-- [ ] [SCULPT](https://abilitynet.org.uk/news-blogs/everyone-can-sculpt-accessibility)
-- [ ] [WCAG](https://www.w3.org/TR/WCAG21/)
-- [ ] [BITV](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html)
+## Changelog
+* 2020-06-08, 21:45 Uhr: Dokumente in Einzelbereiche aufgeteilt; aktuelle Arbeit an Personas
