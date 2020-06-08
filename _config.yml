@@ -1,2 +1,5 @@
 source: /website
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-optional-front-matter
