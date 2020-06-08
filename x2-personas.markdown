@@ -1,10 +1,4 @@
----
-layout: page
-title: Personas
-permalink: /personas/
----
-
-# Personas = Zielgruppenbeschreibung
+# Personas
 ## Was soll dieses Kapitel erfüllen?
 * Ziel dieses Kapitels soll es es sein, mithilfe von Personas auch  "fachfremde" Personen (z. B. Entwickler:innen) für die Besonderheiten einzelner Zielgruppen zu sensibilisieren. "Personas veranschaulichen typische Vertreter Ihrer Zielgruppe. Vielfältige Informationen zu ihrer Lebenswelt machen sie als Menschen verstehbar und ermöglichen es den Projektbeteiligten sich mit ihnen zu identifizieren." [Quelle: usability.de](https://www.usability.de/leistungen/methoden/personas.html)
 * **Wichtig**: Diese Personas werden bewusst prototypisch und verkürzt dargestellt. Dies kann zwar dem politischen und pädagogischen Diskurs widersprechen, unterstützt aber die Plastizität und das Verständnis für Außenstehende. Es sei ausdrücklich darauf hingewiesen, dass diese Kategorisierung hier deutlich trennschärfer und eindeutiger wirkt, als im Alltag sinnvoll.
@@ -33,6 +27,7 @@ permalink: /personas/
     * Partner:innen: die eigene Verbalsprache wird nicht fokussiert, visualisiert und kontextualisiert und vor allem nicht auf die nichtneurotypische Wahrnehmung ausgerichtet (zu viel "Geräusch", zu uneindeutig nachvollziehbar, keine Übermittlung von entschlüsselbaren  Informationen zB zum Handlungsauftrag)
 * Schule: Lernende verstehen verbalisierte Aufgabenstellungen und Anforderungen nur stückweise oder anhand von wiedererkennbaren "Signalwörtern", erfassen aber den Kontext nicht vollständig oder beziehen nicht alle notwendigen Details ein und scheitern sowohl beim Lösen von Aufgaben wie beim Übermitteln von Erklärungen dazu oder bei der Bitte um Hilfe  
 * Umgang mit anderen: Ohne pragmatische Kompetenzen kann niemand darum bitten, dass das Nutellaglas geöffnet wird (und man es selbst nicht kann), obwohl es auf dem Tisch steht. Niemand kann die eigenen Bedürfnisse (Grundbedürfnisse und emotionale und intellektuelle) formulieren und gezielt auf die Gesprächspertner:innen ausrichten (Theory of Mind) Gleichzeitig kommt es massiv zu Missverstehen durch das neurotypische Umfeld, häufig führen reine Funktions"spiele" (300x Licht an und aus)dazu, dass das Umfeld dies als gezielte Provokation und damit als herausforderndes Verhalten deutet und entsprechend agiert  
+* Doppeldeutigkeiten, Ironie werden nicht als solche verstanden bzw. wortwörtlich aufgenommen. Das führt immer wieder zu Missverständnissen in der gegenseitigen Kommunikation.
 * Bedürfnisse & Ziele: 
     * Kontextinformationen und Details müssen so strukturiert und visuell präsentiert sein, dass Funktionen ohne Missverständnis-Optionen nachvollzogen und in eigene Handlungen übersetzt werden können (Stichwort Autismus als Kontextblindheit) 
 * Probleme & Herausforderungen: 
@@ -63,9 +58,9 @@ permalink: /personas/
 * Probleme & Herausforderungen: 
 
 ### Lernende mit Teilleistungsstörungen (Dyslexie, Dyskalkulie)
-* Alltag: 
-* Schule:
-* Umgang mit anderen:
+* Alltag: Lesen, Schreiben und Rechnen sind Kulturtechniken, die unseren Alltag durchdringen. Auch im digitalen Zeitalter ist das Lesen und Schreiben im Alltag von Kindern und Jugendlichen präsent: Anweisungen bei Online-Spielen, Textnachrichten in den sozialen Netzwerken usw. Rechenschwache Menschen haben außerdem kein Zeitgefühl, können oft die Uhr nicht lesen, haben Schwierigkeiten im Umgang mit Geld und Maßeinheiten oder können keine Musiknoten lesen.
+* Schule: Bei Lese-Rechtschreibschwäche gibt es in den meisten Bundesländern Regelungen für einen Nachteilsausgleich. Dieser wird oft in Klassenarbeiten angewendet, aber nicht im Unterricht. Das führt z.B. dazu, dass Schüler_innen in der gegebenen Zeit Tafelbilder nicht abschreiben können, Texte für das nachfolgende Lehrgespräch nicht vollständig lesen können, bei Stationenlernen oder in der Freiarbeit auf die Unterstützung von Mitschüler_innen angewiesen sind. Noch schwieriger ist die Situation für rechenschwache Schüler_innen, da es in der weit überwiegenden Zahl der Bundesländer keinen Nachteilsausgleich gibt. Hier sind Betroffene aif das Wohlwollen der Lehrkräfte und das Ausnutzen des pädagogischen Spielraums angewiesen. Außerdem ist Mathematik entscheidend für den Schulabschluss. Auch mit sehr guten Noten in allen anderen Fächern wird mit einer Vier im Mathe-Grundkurs in den mittleren Schulformen die Qualifikation für die Oberstufe nicht erreicht.
+* Umgang mit anderen: Teilleistungsstörung bedeutet, dass bei einer Intelligenz im Normbereich das Erlernen des Lesens, Schreibens und/oder Rechnens deutlich erschwert ist. Diese Diskrepanz führt bei den Betroffenen und dem Umfeld zu Unverständnis. Oftmals leiden die Betroffenen unter Schamgefühl un dgeringem Selbstwert. Die Folge können komorbide Störungen wie Kopf- oder Bauchschmerz, 
 * Bedürfnisse & Ziele: 
 * Probleme & Herausforderungen:
 
@@ -75,7 +70,7 @@ permalink: /personas/
     * Es müssen alternative Formen der Kommunikation gefunden werden (Unterstützte Kommunikation, z.B. Gebärden, Symbole, Talker, ...)
     * Hohe Abhängigkeit darauf, dass sich Bezugspersonen auf alternative Kommunikationsformen einlassen und sie dabei unterstützen, diese Kommunikationsformen zu lernen und anzuwenden (Modelling)
 * Schule:
-    * häufig werden diese Schüler*innen kognitiv unterschätzt, da sie sich weniger über Verbalsprache artikulieren können. Wenn die Person nur wenige Worte "sprechen" kann, kann sie nicht alles ausdrücken, was sie auch "denken" kann. Die ist ein Teufelskreislauf, da dann durch die Bezugspersonen auch weniger Lernangebote gemacht werden usw.
+    * häufig werden diese Schüler:innen kognitiv unterschätzt, da sie sich weniger über Verbalsprache artikulieren können. Wenn die Person nur wenige Worte "sprechen" kann, kann sie nicht alles ausdrücken, was sie auch "denken" kann. Die ist ein Teufelskreislauf, da dann durch die Bezugspersonen auch weniger Lernangebote gemacht werden usw.
 * Umgang mit anderen:
     * hohes Kontaktbedürfnis, jedoch scheitert es manchmal an der Fähigkeit des anderen, sich auf alternative Kommunikationsformen einzulassen
 * Bedürfnisse & Ziele: 

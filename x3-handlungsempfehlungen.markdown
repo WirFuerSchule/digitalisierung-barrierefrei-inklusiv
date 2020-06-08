@@ -5,7 +5,7 @@
 * eine Schritt-für-Schritt-Bedienungsanleitung in Einfacher Sprache, mit Visualisierung (Videomodelling) und Sprachausgabe
 * nicht zu viele Systeme mit unterschiedlichen Anmeldungs- und Usability-Modalitäten
 * Zugänglichkeit zu   über verschiedene Modalitäten
-    * Text (ausführlich, kurz / leichte Sprache)
+    * Text (ausführlich, kurz / einfache Sprache)
     * Bildunterstützung (etablierte grafische Zeichensammlung Metacom verwenden, die auch auf entsprechenden Hilfsmitteln benutzt wird)
     * Sprachausgabe (auf Anforderung)
     * Videomodelling
@@ -20,19 +20,23 @@
 * gute Strukturierung, eher nüchterne, sachliche Benutzeroberfläche
 * Übersichtlichkeit
 * Priorisierung deutlich erkennbar
+* nicht zuviele Informationen gleichzeitg auf einer Seite
+* einheitliches Schriftbild
+* fest zugeordnete Farben zu bestimmten Themenfeldern
 * Oberflächenbeschaffenheit (z.B. Tastatur)
 * Gerüche/Geschmack (zur Mithilfe beim Visualisieren)
 * Geräusche (Einstellmöglichkeiten bei der Hard-/Software) 
-* Lichtverhältnisse
+* Lichtverhältnisse 
 * Spannend, abwechslungsreich für ADHS
 * Gerne gewisse Wettbewerbsmöglichkeiten
 * Listen zum Abarbeiten für Übersicht
 * Sehr schnelles Feedback (richtig? falsch?) 
-* Visualisierung der Lernmenge
+* Visualisierung der Lernmenge 
+* Visualisierung der Lernzeit (Time Timer) - in der Software "verbauen"
 * Eventuell Sperre für bestimmte weitere Programme, um Ablenkungen zu verhindern
 
 ### Kognitive Entwicklung 
-- evtl. Leichte Sprache (?)
+- Leichte Sprache oder Einfache Sprache 
 - schriftsprachunabhängie Nutzung sollte möglich sein (z.B. Pictogramme, Screenreader, visuelle Unterstützung)
 - reizarme Materialien, Übersichtlichkeit, nicht überladen (Reizüberflutung vermeiden)
 - bedienungsfreundliche Apps
