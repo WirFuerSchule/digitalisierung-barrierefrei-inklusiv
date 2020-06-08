@@ -1,4 +1,4 @@
-# Bei Digitalisierung Teilhabe beachten
+# Digitalisierung der Bildung – barrierefrei und inklusiv
 ## Einleitung
 ### Ziele dieses Edupads
 
@@ -242,3 +242,7 @@
 - Inhalte in Varianten in Bezug auf Lesbarkeit (Lesbarkeitsindex) anbieten, d.h. Länge von Sätzen und Wörtern - NICHT inhaltlich reduziert oder sprachlich vereinfacht
 - Audio-Ausgabe einbauen, dabei Lesegeschwindigkeit regulierbar (Förderschwerpunkt Sehen kann sehr schnelle Ausgabe erfordern, Leseschwäche sehr langsame Ausgabe, um das Mitlesen zu ermöglichen)
 - Audio-Ausgabe mit Strukturhilfen (Verben, Substantive, Adjektive) und Silbensegmentierung
+
+
+
+
