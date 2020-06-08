@@ -9,7 +9,7 @@ layout: home
 ## Zusammenfassung
 Dise Dokumentation hat zum Ziel eine Übersicht/Handreichung/Checkliste zu bieten, an der sich Entwickler:innen von digitalen Bildungslösungen  orientieren können. Sie wird derzeit im Rahmen des Projekts [#WirFürSchule](https://wirfuerschule.de) entwickelt. 
 
-Die Dokumentation wird regelmäßig auf [GitHub: #WirFürSchule – Digital und barrierefrei](https://mariohamann.github.io/wirfuerschule-digitalisierung-barrierefrei-inklusiv/) aktualisiert.
+Die Dokumentation wird regelmäßig auf [GitHub: #WirFürSchule – Digital und barrierefrei](https://wirfuerschule.github.io/digitalisierung-barrierefrei-inklusiv/) aktualisiert.
 
 ## Inhaltsverzeichnis
 Zur Bearbeitung der jeweiligen Dokuments folgende Links aufrufen:
