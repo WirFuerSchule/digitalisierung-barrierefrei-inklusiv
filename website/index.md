@@ -26,7 +26,6 @@
 - [ ] [BITV](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html)
 
 
-
 ---
 
 ## Personas = Zielgruppenbeschreibung
